@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeviceInfoApp</string>
+
+    <string name="apps_number">There are %1$s installed apps in the phone</string>
+    <string name="device_info">Device Info</string>
+    <string name="enabled">enabled</string>
+    <string name="disabled">disabled</string>
+
+    <!--  Device info  -->
+    <string name="storage_info">Internal: free {0}Mb storage from {1}Mb \nExternal: free {2}Mb storage from {3}Mb</string>
+    <string name="memory_info">Free {0}Mb memory from {1}</string>
+    <string name="network_info">WiFi is %1$s \nMobileData is %2$s</string>
+    <string name="gps_info">Lat: %1$s, Long: %2$s</string>
+    <string name="gps_disabled">GPS is disabled</string>
+</resources>
